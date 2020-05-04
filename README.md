@@ -6,6 +6,16 @@ Project instructions, reference images and final report can be found in this [li
 
 Link for [Demonstration video1](https://youtu.be/4ylh9HV_xOI) [Demonstration video2](https://youtu.be/-8_72JUhHaY) 
 
+Algorithms used: 
+
+Landmark Detection: Color thresholding, Georeferencing
+
+Landmark Classification: ORB feature detection and matching, RANSAC 
+
+Motion Planning: RRT* followed by polynomial interpolation for path smoothing
+
+Controller: PD controllers for pitch and roll, yaw controllers for z and yaw
+
 ## Requirements 
 
 [ROS Kinetic](http://wiki.ros.org/kinetic)
