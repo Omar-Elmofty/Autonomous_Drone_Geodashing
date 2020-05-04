@@ -6,7 +6,7 @@ Project instructions, reference images and final report can be found in this [li
 
 Link for [Demonstration video1](https://youtu.be/4ylh9HV_xOI) [Demonstration video2](https://youtu.be/-8_72JUhHaY) 
 
-Algorithms used: 
+### Algorithms used: 
 
 Landmark Detection: Color thresholding, Georeferencing
 
